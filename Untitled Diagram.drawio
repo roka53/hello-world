@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2020-10-16T20:00:15.445Z" agent="5.0 (X11)" etag="FsZ8b5BGJHDzP28XD-qa" version="13.8.0" type="github"><diagram id="TlmuV-VfjEO8P__Ehpt_" name="Page-1">7ZZRb5swEMc/DdL2kClAIM1jQ7p2UipFy6Q+X8EBr8aHjFOSfPqdwYQQGimrFO1lEkLc32dj3+9/CMeP8t2jgiJ7xoQJxxsnO8dfOJ43G7t0N8K+EaYTK6SKJ410Iqz5gVlxbNUtT1jZS9SIQvOiL8YoJYt1TwOlsOqnbVD031pAygbCOgYxVF94orNGvfOmnf7EeJq1b3bDWTOSQ5tsT1JmkGB1IvkPjh8pRN085buICVO7ti7NvO8XRo8bU0zqaybsp2EQRI8vsx/Vantw4WX09HtkV3kHsbUHjgSUpYSc2V3rfVuKsuK5AEnRfINSr+2ISzEInkp6jmkvTJHwzpTmVMV7O6CxIDXOuEiWsMet2XGpIX5ro3mGih9oWRB2TRpW2hrCC3sZazOT5DGpipWUs2rL4J5Jz7DrJS6h1FaIUQgoSv56PEYOKuVyjlpjbpNsfeg4bHex8O4RJ7UBw5xptacUO8GbWgfYFnDbuOoM5YZWy07MdBdaH1sPp8elO8z0YEn/BXVvQN3x5qY7ODPtcW+abF8MHUA10DUZhW8sQoGEeiGxsQQX4kxqXSHYRl/0RFlAzGW6rHMWk075aQthJKS5G1F3T8aThEnDEzVoaOAZUgVyqetKBXO6qJ7R+FvgBLTxiGK3i+ky6UpHKOkswGuOjJxRMeOO66Bf7qehEyx5L7wOvHcr8P4H4M8YC16zaxi3nzz3U4BzQiVYR/SXAb4YuQPq/pC6/wFhAa9MrLDkmqNZXzW5Z+T/FdzAu7Krb8R2cqGpafUMky+mob/+7+2b4Q+v/Kh/orcp7H4T6rGTfy3/4Q8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-16T20:03:41.167Z" agent="5.0 (X11)" etag="IxMgJt2n4UHZXHbe-9k6" version="13.8.0" type="github">
+  <diagram id="TlmuV-VfjEO8P__Ehpt_" name="Page-1">
+    <mxGraphModel dx="901" dy="741" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="y7655CGW9IwPuz1aW-Hj-1" value="Classname" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="170" width="160" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="y7655CGW9IwPuz1aW-Hj-2" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="y7655CGW9IwPuz1aW-Hj-1" vertex="1">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="y7655CGW9IwPuz1aW-Hj-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="y7655CGW9IwPuz1aW-Hj-1" vertex="1">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="y7655CGW9IwPuz1aW-Hj-4" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="y7655CGW9IwPuz1aW-Hj-1" vertex="1">
+          <mxGeometry y="60" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="q0YsgXdBPeOtWmPyW8R3-1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br/&gt;&lt;b&gt;Interface&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ field1: Type&lt;br/&gt;+ field2: Type&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ method1(Type): Type&lt;br/&gt;+ method2(Type, Type): Type&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="420" width="190" height="140" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
